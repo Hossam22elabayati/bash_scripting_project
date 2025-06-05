@@ -4,5 +4,5 @@
 
 ### git clone https://github.com/Hossam22elabayati/bash_scripting_project.git
 
-#### Run Program 
-## source main.sh 
+## Run Program 
+#### source main.sh 
